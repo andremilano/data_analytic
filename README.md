@@ -12,7 +12,9 @@
 
 ## Notes
 Dont forget to install library :
-```bash pandas ```
+```bash 
+pandas
+```
 ```bash matplotlib ```
 ```bash wordcloud ```
 ```bash nltk ```
