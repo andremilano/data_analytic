@@ -13,10 +13,20 @@
 ## Notes
 Dont forget to install library :
 ```bash 
-pandas
+pip install pandas
 ```
-```bash matplotlib ```
-```bash wordcloud ```
-```bash nltk ```
-```bash textblob ```
-```bash seaborn ```
+```bash 
+pip install matplotlib
+```
+```bash 
+pip install wordcloud
+ ```
+```bash 
+pip install nltk
+```
+```bash 
+pip install textblob
+```
+```bash 
+pip install seaborn
+```
