@@ -7,7 +7,7 @@
 3. run ```py DataCleaning.py```, the .csv result saved at result/cleaned_tweets.csv
 4. run ```py DataAnalytic.py``` to get most used word in the .csv file
 5. run ```py UserSentiment.py``` to get user sentimen, positive, negative or neutral
-6. to get the visualization from the sentiment, run SentimenVisual.py
+6. to get the visualization from the sentiment, run ```py SentimenVisual.py```
 
 
 ## Notes
