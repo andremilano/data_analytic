@@ -12,11 +12,9 @@
 
 ## Notes
 Dont forget to install library :
-```bash
-- pandas,
-- matplotlib,
-- wordcloud,
-- nltk,
-- textblob
-- seaborn
-```
+```bash pandas ```
+```bash matplotlib ```
+```bash wordcloud ```
+```bash nltk ```
+```bash textblob ```
+```bash seaborn ```
