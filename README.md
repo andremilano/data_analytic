@@ -30,3 +30,6 @@ pip install textblob
 ```bash 
 pip install seaborn
 ```
+
+## execute the file by order from 1 - 6 
+to execute run this command : ```py file_name.py```
