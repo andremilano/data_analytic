@@ -1,12 +1,12 @@
 # Step 
-==============================> Put your .csv file into folder 'data' <==============================
+==========> Put your .csv file into folder 'data' <==========
 
-
+--> Execute by Order <--
 1. Clone this repositories into your local machine
 2. Use ur own data crawling program to take data from twitter or any other source
-3. run DataCleaning.py, the .csv result saved at result/cleaned_tweets.csv
-4. run DataAnalytic.py to get most used word in the .csv file
-5. run UserSentiment.py to get user sentimen, positive, negative or neutral
+3. run ```py DataCleaning.py```, the .csv result saved at result/cleaned_tweets.csv
+4. run ```py DataAnalytic.py``` to get most used word in the .csv file
+5. run ```py UserSentiment.py``` to get user sentimen, positive, negative or neutral
 6. to get the visualization from the sentiment, run SentimenVisual.py
 
 
@@ -31,5 +31,3 @@ pip install textblob
 pip install seaborn
 ```
 
-## execute the file by order from 1 - 6 
-to execute run this command : ```py file_name.py```
